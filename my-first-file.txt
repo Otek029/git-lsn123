@@ -2,3 +2,4 @@ Pierwsza linijka.
 Druga linijka dodana.
 Trzecia linijka dodana z gałęzi Krzysiek i antek.
 Czwarta linijka dodana z gałęzi antek.
+Piąta linijka z GitHub
