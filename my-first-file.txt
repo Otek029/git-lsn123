@@ -4,3 +4,4 @@ Trzecia linijka dodana z gałęzi Krzysiek i antek.
 Czwarta linijka dodana z gałęzi antek.
 Piąta linijka z GitHub
 Szósta linijka z lokalnie.
+Sidma linijka z GitHub desktop
